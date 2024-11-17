@@ -20,6 +20,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+Open on <a href="http://localhost:3000">localhost:3000</a>
 
 ## Run tests
 
